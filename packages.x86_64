@@ -82,7 +82,6 @@ i3-wm
 sway
 nvidia-dkms
 powerpill
-snapd
 neovim
 tmux
 tor
