@@ -78,3 +78,13 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
+tcpdump
+i3-wm
+sway
+nvidia-dkms
+powerpill
+snapd
+neovim
+tmux
+tor
+yay
